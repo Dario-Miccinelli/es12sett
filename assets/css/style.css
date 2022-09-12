@@ -62,3 +62,17 @@ main {
 .tim img {
     padding-top: 25px;
 }
+
+
+.txt {
+    background-color: yellow;
+}
+
+.lorem1 {
+    font-size: 105%;
+}
+
+.lista {
+ margin-left: -25px ;
+}
+
