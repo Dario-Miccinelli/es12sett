@@ -1,18 +1,15 @@
 body {
-  
     margin: 0px;
     padding: 0px;
 }
-
 
 .banner{
     position: relative;
     background-color: #6ba4ff;
     background-image: url('../img/pattern.png');
     width: 100%;
-    height: 145px;
+    height: 170px;
 }
-
 
 
 .bool-logo {
@@ -33,6 +30,7 @@ body {
 #h1int {
 font-size: 275%;
 margin-bottom: 0px;
+font-style: oblique;
 }
 main {
     width: 80%;
@@ -40,13 +38,12 @@ main {
 }
 
 .descrizione {
-
     font-weight: 900;
-    color: grey;
+    color: #677fa6 ;
 }
 
 .nomebool {
-    font-size: 125%;
+    font-size: 115%;
     color:  #2ed2ff;
 }
 
@@ -74,5 +71,47 @@ main {
 
 .lista {
  margin-left: -25px ;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+.tabella {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-left: -10px;
+}
+
+.tabella tabella {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.table {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.table table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.table table thead {
+    background-color: #6ba4ff;
+    color: #fff;
+}
+
+.table table th {
+    width: 5%;
+}
+
+table tbody{
+    font-size: 0.7rem;
+}
+
+.table tr:nth-child(even) {
+    background-color: #6ba4ff;
 }
 
