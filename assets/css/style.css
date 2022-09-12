@@ -67,10 +67,11 @@ main {
 
 .lorem1 {
     font-size: 105%;
+    padding-top: 20px;
 }
 
 .lista {
- margin-left: -25px ;
+ margin-left: 5px ;
  margin-top: 30px;
  margin-bottom: 30px;
 }
@@ -104,14 +105,66 @@ main {
 }
 
 .table table th {
-    width: 5%;
+    width: 7%;
+    
 }
 
 table tbody{
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 }
 
 .table tr:nth-child(even) {
     background-color: #6ba4ff;
 }
 
+footer{
+    width: 90%;
+    margin: auto;
+}
+
+.articolo h4 {
+    color: #989898;
+}
+
+.articolo {
+    margin-left: -60px;
+    width: 340px;
+    height: 200px;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+.articolo h3{
+    padding: 10px;
+}
+
+.imgfooter1 {
+    background-image: url('../img/monitor.jpg');
+    margin-left: -80px;
+    
+}
+.imgfooter2 {
+    background-image: url('../img/graph.jpg');
+    margin-left: -80px;
+}
+
+#txth4 {
+    color: grey;
+    margin-left: -85px;
+    font-size: 120%;
+    margin-top: 50px;
+}
+
+.imgfooter1 h3 {
+    text-align: center;
+    font-size: 130%;
+}
+
+.imgfooter2 h3 {
+    text-align: center;
+    font-size: 130%;
+}
+
+/* fine  */
