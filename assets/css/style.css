@@ -45,10 +45,6 @@ main {
     color: grey;
 }
 
-.intestazione {
-    padding: 10px;
-}
-
 .nomebool {
     font-size: 125%;
     color:  #2ed2ff;
@@ -57,3 +53,9 @@ main {
 .data {
     font-size: 120%;
 }
+
+
+.desc-img{
+    font-weight: bold;
+}
+
