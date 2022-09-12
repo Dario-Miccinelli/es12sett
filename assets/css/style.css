@@ -29,3 +29,31 @@ body {
     bottom: 0px;
     left: 50px;
 }
+
+#h1int {
+font-size: 275%;
+margin-bottom: 0px;
+}
+main {
+    width: 80%;
+    margin: auto;
+}
+
+.descrizione {
+
+    font-weight: 900;
+    color: grey;
+}
+
+.intestazione {
+    padding: 10px;
+}
+
+.nomebool {
+    font-size: 125%;
+    color:  #2ed2ff;
+}
+
+.data {
+    font-size: 120%;
+}
